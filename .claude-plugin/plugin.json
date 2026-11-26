@@ -1,6 +1,6 @@
 {
   "name": "studiesync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "StudieSync for Claude: your Canvas courses in your own Google Drive, plus skills for a weekly overview, flashcards, a quiz, exam practice, explaining the hard parts and tidying a course. Connects to the StudieSync connector; StudieSync never sends file contents, only course names, topics, file names and links to your own Drive.",
   "author": {
     "name": "StudieSync",
