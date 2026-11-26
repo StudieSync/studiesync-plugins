@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "studiesync": {
+      "type": "http",
+      "url": "https://app.studiesync.dk/mcp"
+    }
+  }
+}

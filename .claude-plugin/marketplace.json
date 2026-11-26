@@ -1,0 +1,17 @@
+{
+  "name": "studiesync",
+  "owner": {
+    "name": "StudieSync",
+    "url": "https://studiesync.dk"
+  },
+  "metadata": {
+    "description": "StudieSync's plugin for Claude: your Canvas courses in your own Google Drive, with study skills."
+  },
+  "plugins": [
+    {
+      "name": "studiesync",
+      "source": "./",
+      "description": "Your Canvas courses in your own Google Drive, with skills for overviews, flashcards, quizzes, exam practice and tidying a course."
+    }
+  ]
+}
